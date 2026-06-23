@@ -1,5 +1,5 @@
-import x1
+m1 m1
 
-x1.Logo()
+m1.Logo()
 enc = input("[?] Enter the encrypted string: ")
-x1.run_session(enc)
+m1.run_session(enc)
